@@ -3,7 +3,7 @@ public class Main {
         CourseCatalog catalog = new CourseCatalog();
         CourseDataLoader.loadSampleCourses(catalog);
 
-        Student student = new Student("Loi", "Computer Science");
+        Student student = new Student("L", "Computer Science");
 
         DegreeRequirement requirement = new DegreeRequirement("Computer Science");
         CourseDataLoader.loadSampleDegreeRequirement(requirement, catalog);
