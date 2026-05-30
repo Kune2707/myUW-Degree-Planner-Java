@@ -23,8 +23,6 @@ The app currently supports:
 
 I wanted to strengthen my Java OOP skills by building a project that is more practical than a small classroom exercise. This project helped me practice how different classes work together in a larger system and how to separate responsibilities between objects.
 
-Instead of putting all the logic in `Main`, I organized the program into separate classes such as `Course`, `Student`, `CourseCatalog`, `QuarterPlan`, `AcademicPlan`, `DegreeRequirement`, and `CoursePlanner`.
-
 ## Features
 
 ### Course Catalog
